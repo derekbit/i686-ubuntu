@@ -1,3 +1,3 @@
-# i6i8-ubuntu
+# i686-ubuntu
 
 Ubuntu image for the i686 architecture
